@@ -2,11 +2,13 @@
 
 pragma solidity ^0.8.4;
 
-import "./zar.sol";
+import "./ZAR.sol";
 import "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
+import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract NFTStaking is Ownable, IERC721Receiver {
+
+contract NFT_stake is Ownable, IERC721Receiver {
 
   uint256 public totalStaked;
   
@@ -28,7 +30,7 @@ contract NFTStaking is Ownable, IERC721Receiver {
   // maps tokenId to stake
   mapping(uint256 => Stake) public vault; 
 
-   constructor(ERC721Enumerable _nft, ZAR _token) { 
+   constructor(ERC721Enumerable _nft, ZAR _token) Ownable(msg.sender){ 
     nft = _nft;
     token = _token;
   }
