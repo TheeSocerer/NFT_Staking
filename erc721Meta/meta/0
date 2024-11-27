@@ -1,7 +1,7 @@
 {
     "name": "1967 Mustang GT",
     "description": "A classic 1967 Mustang GT Fastback, known for its timeless design and powerful V8 engine.",
-    "image": "ipfs://examplehash1/mustang-gt-1967.png",
+    "image": "ipfs://Qmea4KmTfjJ7vd1mUNvGPy2Esd8DBA7tBqBN97H6r4HCpq/mustang-gt-1967.jpeg",
     "attributes": [
       { "trait_type": "Year", "value": "1967" },
       { "trait_type": "Engine", "value": "289 cu in V8" },

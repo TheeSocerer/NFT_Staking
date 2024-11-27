@@ -1,0 +1,11 @@
+{
+    "name": "1969 Mustang Boss 302",
+    "description": "A track-ready 1969 Mustang Boss 302 with a lightweight design and racing pedigree.",
+    "image": "ipfs://Qmea4KmTfjJ7vd1mUNvGPy2Esd8DBA7tBqBN97H6r4HCpq/mustang-boss302-1969.jpeg",
+    "attributes": [
+      { "trait_type": "Year", "value": "1969" },
+      { "trait_type": "Engine", "value": "302 cu in V8" },
+      { "trait_type": "Transmission", "value": "4-speed manual" },
+      { "trait_type": "Feature", "value": "Competition suspension" }
+    ]
+  }

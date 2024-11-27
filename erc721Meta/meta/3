@@ -1,0 +1,11 @@
+{
+    "name": "1968 Mustang Shelby GT500",
+    "description": "A rare 1968 Shelby GT500, designed for ultimate performance and style.",
+    "image": "ipfs://Qmea4KmTfjJ7vd1mUNvGPy2Esd8DBA7tBqBN97H6r4HCpq/mustang-shelby-gt500-1968.jpeg",
+    "attributes": [
+      { "trait_type": "Year", "value": "1968" },
+      { "trait_type": "Engine", "value": "428 V8" },
+      { "trait_type": "Transmission", "value": "4-speed manual" },
+      { "trait_type": "Style", "value": "Shelby" }
+    ]
+  }

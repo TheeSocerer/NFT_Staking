@@ -1,0 +1,11 @@
+{
+    "name": "2022 Mustang GT",
+    "description": "The 2022 Mustang GT with a 5.0L V8 engine and track-ready performance package.",
+    "image": "ipfs://Qmea4KmTfjJ7vd1mUNvGPy2Esd8DBA7tBqBN97H6r4HCpq/mustang-gt-2022.jpeg",
+    "attributes": [
+      { "trait_type": "Year", "value": "2022" },
+      { "trait_type": "Engine", "value": "5.0L V8" },
+      { "trait_type": "Transmission", "value": "6-speed manual" },
+      { "trait_type": "Feature", "value": "Performance package" }
+    ]
+  }

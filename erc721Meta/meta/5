@@ -1,0 +1,11 @@
+{
+    "name": "2023 Mustang EcoBoost",
+    "description": "A modern 2023 Mustang EcoBoost with a turbocharged engine and advanced features.",
+    "image": "ipfs://Qmea4KmTfjJ7vd1mUNvGPy2Esd8DBA7tBqBN97H6r4HCpq/mustang-ecoboost-2023.jpeg",
+    "attributes": [
+      { "trait_type": "Year", "value": "2023" },
+      { "trait_type": "Engine", "value": "2.3L EcoBoost I4" },
+      { "trait_type": "Transmission", "value": "10-speed automatic" },
+      { "trait_type": "Feature", "value": "Turbocharged engine" }
+    ]
+  }

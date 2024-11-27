@@ -1,0 +1,11 @@
+{
+    "name": "2023 Mustang Mach-E",
+    "description": "An all-electric 2023 Mustang Mach-E with advanced SUV styling and performance.",
+    "image": "ipfs://Qmea4KmTfjJ7vd1mUNvGPy2Esd8DBA7tBqBN97H6r4HCpq/mustang-mach-e-2023.jpeg",
+    "attributes": [
+      { "trait_type": "Year", "value": "2023" },
+      { "trait_type": "Engine", "value": "Electric motor" },
+      { "trait_type": "Transmission", "value": "Single-speed" },
+      { "trait_type": "Feature", "value": "All-electric" }
+    ]
+  }
